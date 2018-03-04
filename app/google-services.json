@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1086190681225",
+    "firebase_url": "https://mydoctor-145a4.firebaseio.com",
+    "project_id": "mydoctor-145a4",
+    "storage_bucket": "mydoctor-145a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086190681225:android:aadc351f90564d1a",
+        "android_client_info": {
+          "package_name": "charity.marani.mydoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086190681225-nge6ui62jmb3it08itjhogh0k35n1fmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "charity.marani.mydoctor",
+            "certificate_hash": "1eae3438788a1f165cf759e8578f7356722073d6"
+          }
+        },
+        {
+          "client_id": "1086190681225-lo5oomfmvio0pr7fne5438d0dmps5gir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR12I-y_AYn0Gx_2M_3KUAQSI00-0VEGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086190681225-lo5oomfmvio0pr7fne5438d0dmps5gir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

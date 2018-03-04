@@ -1,0 +1,8 @@
+url:http://charitymarani.com
+name:Dr Charity
+email:charitymarani@gmail.com
+gender:female
+botmaster:Miss Charity Marani
+organization:MedTech
+version:0.0.1
+

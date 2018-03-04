@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDoctor</string>
+    <string name="desc">nurse picture</string>
+    <string name="descr">user account icon</string>
+    <string name="title_activity_list">Illnesses</string>
+    <string name="title_activity_detail">More Details</string>
+     <string name="malaria_intro">Malaria is a tropical disease spread by female Anopheles mosquitoes that are infected by plasmodium parasites
+    .If not diagnosed and treated promptly,it can be fatal.</string>
+    <string name="uti_intro">Urinary tract infections(UTIs) are common infections that can affect the bladder,the kidneys and the tubes connected to them.</string>
+
+</resources>
